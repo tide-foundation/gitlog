@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>gitlog</AssemblyName>
+    <PublishTrimmed>true</PublishTrimmed>
+  </PropertyGroup>
+
+
+</Project>
